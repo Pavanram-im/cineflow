@@ -1,0 +1,8 @@
+{
+  "name": "HireIt Job Portal",
+  "description": "One feed for every authorized job source with verified deduplication, instant job alerts, and application tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
